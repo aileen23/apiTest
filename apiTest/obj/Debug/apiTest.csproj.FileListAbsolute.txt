@@ -1,0 +1,8 @@
+c:\users\jihye\documents\visual studio 2015\Projects\apiTest\bin\Debug\apiTest.exe.config
+c:\users\jihye\documents\visual studio 2015\Projects\apiTest\bin\Debug\apiTest.exe
+c:\users\jihye\documents\visual studio 2015\Projects\apiTest\bin\Debug\apiTest.pdb
+c:\users\jihye\documents\visual studio 2015\Projects\apiTest\obj\Debug\apiTest.exe
+c:\users\jihye\documents\visual studio 2015\Projects\apiTest\obj\Debug\apiTest.pdb
+c:\users\jihye\documents\visual studio 2015\Projects\apiTest\obj\Debug\apiTest.csprojResolveAssemblyReference.cache
+C:\Users\Jihye\documents\visual studio 2015\Projects\apiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jihye\documents\visual studio 2015\Projects\apiTest\bin\Debug\Newtonsoft.Json.xml
