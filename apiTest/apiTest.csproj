@@ -48,12 +48,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="baseClient.cs" />
-    <Compile Include="baseItem.cs" />
-    <Compile Include="Company.cs" />
-    <Compile Include="Dept.cs" />
-    <Compile Include="DeptTree.cs" />
+    <Compile Include="Companies.cs" />
+    <Compile Include="Departments.cs" />
+    <Compile Include="GetDataCompanies.cs" />
+    <Compile Include="GetDataDepartments.cs" />
+    <Compile Include="GetDataMemberList.cs" />
+    <Compile Include="GetDataSearchDepartments.cs" />
+    <Compile Include="GetDataSearchUsers.cs" />
+    <Compile Include="GetDataUserSetting.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchUsers.cs" />
+    <Compile Include="UserInfoSummary.cs" />
     <Compile Include="UserSetting.cs" />
   </ItemGroup>
   <ItemGroup>
